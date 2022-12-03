@@ -28,3 +28,10 @@ ser sustituidos por objetos de tipo S(clase hija)
 ---> Precondiciones 
 
 ---> Postcondiciones
+
+4) Interface Segregation
+
+Ningun cliente debe ser forzado a depender de metodos que no usa.
+
+--Segregar: separar, apartir, dividir.
+--Interfaz: el contrato que especifica lo que la clase debe hacer
