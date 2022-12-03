@@ -9,4 +9,12 @@ una clase debe tener una, y solo una, razon para cambiar.
 
 "¿esta clase tiene mas de una razon para ser cambiada?"
 
+------------------------------------------------------------------------------------------
+2) Open close (abierto - cerrado)
 
+Las entidades deben estar abiertas a extensión, pero cerradas a modificación
+
+
+Como cambiar el comportamiento de una clase, sin modificar su codigo fuente.
+
+--- Separa el comportamiento extensible detrás de una interfaz y voltea las dependencias.
