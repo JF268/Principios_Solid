@@ -18,3 +18,13 @@ Las entidades deben estar abiertas a extensión, pero cerradas a modificación
 Como cambiar el comportamiento de una clase, sin modificar su codigo fuente.
 
 --- Separa el comportamiento extensible detrás de una interfaz y voltea las dependencias.
+
+
+3) Principio de sustitucion
+
+Si S es un subtipo(herencia) de T, entonces los objetos de tipo T(clase padre) pueden
+ser sustituidos por objetos de tipo S(clase hija)
+
+---> Precondiciones 
+
+---> Postcondiciones
