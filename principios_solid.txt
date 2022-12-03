@@ -35,3 +35,16 @@ Ningun cliente debe ser forzado a depender de metodos que no usa.
 
 --Segregar: separar, apartir, dividir.
 --Interfaz: el contrato que especifica lo que la clase debe hacer
+
+5) Dependency Invesion 
+
+Los modulos de alto nivel no deben depender de los modulos de bajo nivel. 
+Ambos deben depender de abstracciones.
+
+Las abstracciones no deben depender de los detalles y los detalles deben depender de las 
+abstracciones.
+
+
+Abstracción-> seprar por medio una operacion intelectual un rasgo 
+o cualidad de algo para analizarlos aisladamente.
+
